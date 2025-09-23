@@ -41,7 +41,7 @@ Repository ini berisi kumpulan laporan praktikum dan kode yang saya kerjakan sel
 | 3  | 10-09-2025  | 03           | Pengaturan Layout Row dan Column di Flutter | [📂 Modul 03](https://drive.google.com/file/d/1cDHM9gmtvJQJ8RAJ2c5SQHU4Yl-fAoV_/view?usp=drive_link) | [🔗 Repo 03](https://github.com/n2nd22uli2/Layout-Row-dan-Column-di-Flutter/tree/main) |
 | 4  | 10-09-2025  | 04           | Widget Flexible dan Expanded | [📂 Modul 04](https://drive.google.com/file/d/1G8JUDS12AVEDwOGD5m5XeYFNV8CwavSe/view?usp=drive_link) | [🔗 Repo 04](https://github.com/n2nd22uli2/Widget-Flexible-dan-Expanded/tree/main) |
 | 5  | 17-09-2025  | 05           | Widget SizedBox, Spacer, dan Card | [📂 Modul 05](https://drive.google.com/file/d/1nWWTWcglEqbMHkfjdNdlCrOIWn5jcBc0/view?usp=drive_link) | [🔗 Repo 05](https://github.com/n2nd22uli2/Widget-SizedBox-Spacer-dan-Card/tree/main) |
-| 6  | 17-09-2025  | 06           | Widget GridView, ListView, GridView.builder, dan ListView.builder | [📂 Modul 06](https://drive.google.com/file/d/1-AcMl5-Ti0CjkwU0BTVJTZ2ogTfvckQS/view?usp=drive_link) | [🔗 Repo 06](https://github.com/n2nd22uli2/Widget-Flexible-dan-Expanded/tree/main) |
+| 6  | 17-09-2025  | 06           | Widget GridView, ListView, GridView.builder, dan ListView.builder | [📂 Modul 06](https://drive.google.com/file/d/1-AcMl5-Ti0CjkwU0BTVJTZ2ogTfvckQS/view?usp=drive_link) | [🔗 Repo 06](https://github.com/n2nd22uli2/Widget-GridView-ListView-GridView.builder-dan-ListView.builder/tree/main) |
 
 
 ---
