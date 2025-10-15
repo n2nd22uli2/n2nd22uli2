@@ -44,6 +44,9 @@ Repository ini berisi kumpulan laporan praktikum dan kode yang saya kerjakan sel
 | 6  | 17-09-2025  | 06           | Widget GridView, ListView, GridView.builder, dan ListView.builder | [📂 Modul 06](https://drive.google.com/file/d/1-AcMl5-Ti0CjkwU0BTVJTZ2ogTfvckQS/view?usp=drive_link) | [🔗 Repo 06](https://github.com/n2nd22uli2/Widget-GridView-ListView-GridView.builder-dan-ListView.builder/tree/main) |
 | 7  | 17-09-2025  | 07           | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [📂 Modul 07](https://drive.google.com/file/d/1HC5xxAGkY9ixRhVJW__SitZ6gP0B3NRm/view?usp=drive_link) | [🔗 Repo 07](https://github.com/n2nd22uli2/Widget-SizedBox-Spacer-dan-Card/tree/main) |
 | 8  | 17-09-2025  | 08           | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [📂 Modul 08](https://drive.google.com/file/d/1oW2aqliiGMbECBzGQDP0t8eKX5hXb_xA/view?usp=drive_link) | [🔗 Repo 08](https://github.com/n2nd22uli2/Widget-GridView-ListView-GridView.builder-dan-ListView.builder/tree/main) |
+| 9  | 01-10-2025  | 09           | StatefulWidget | [📂 Modul 09](https://drive.google.com/file/d/1qEZ6gFN_6ULMStCxJhfBeuX2EQOJz9J3/view?usp=drive_link) | [🔗 Repo 09](https://github.com/n2nd22uli2/Widget-GridView-ListView-GridView.builder-dan-ListView.builder/tree/main) |
+| 10  | 08-10-2025  | 10           | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [📂 Modul 10](https://drive.google.com/file/d/1PbFZg_DotA0-ym1FqAWRa3Ql6SWN7QYM/view?usp=drive_link) | [🔗 Repo 10](https://github.com/n2nd22uli2/Widget-SizedBox-Spacer-dan-Card/tree/main) |
+| 11  | 15-10-2025  | 11           | Manajemen State dengan GetX | [📂 Modul 11](https://drive.google.com/file/d/1HF-AsBH7NcXODTs1B2LjkmMjberAYdqR/view?usp=drive_link) | [🔗 Repo 11](https://github.com/n2nd22uli2/Widget-GridView-ListView-GridView.builder-dan-ListView.builder/tree/main) |
 
 
 ---
