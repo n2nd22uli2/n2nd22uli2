@@ -48,7 +48,7 @@ Repository ini berisi kumpulan laporan praktikum dan kode yang saya kerjakan sel
 | 10  | 08-10-2025  | 10           | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [📂 Modul 10](https://drive.google.com/file/d/1PbFZg_DotA0-ym1FqAWRa3Ql6SWN7QYM/view?usp=drive_link) | [🔗 Repo 10](https://github.com/n2nd22uli2/Widget-SizedBox-Spacer-dan-Card/tree/main) |
 | 11  | 15-10-2025  | 11           | Manajemen State dengan GetX | [📂 Modul 11](https://drive.google.com/file/d/1HF-AsBH7NcXODTs1B2LjkmMjberAYdqR/view?usp=drive_link) | [🔗 Repo 11](https://github.com/n2nd22uli2/Widget-GridView-ListView-GridView.builder-dan-ListView.builder/tree/main) |
 | 12  | 29-10-2025  | 12           | Akses Lokasi dengan GPS di Flutter | [📂 Modul 12](https://drive.google.com/file/d/1zcax89pIhgV7oGjGLAtR49CtxVGC9q2G/view?usp=drive_link) | [🔗 Repo 12](https://github.com/n2nd22uli2/Widget-GridView-ListView-GridView.builder-dan-ListView.builder/tree/main) |
-
+| 13  | 19-11-2025  | 13           | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API  | [📂 Modul 13](https://drive.google.com/file/d/16tW3RPbFmEf-7uU2wUbZitc9uEeHOhey/view?usp=drive_link) | [🔗 Repo 13](https://github.com/n2nd22uli2/Widget-GridView-ListView-GridView.builder-dan-ListView.builder/tree/main) |
 ---
 
 
